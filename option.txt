@@ -1,0 +1,10 @@
+1.Number System (base Conversion)
+2.Decimal to BCD Code Converter(Vice Varca)
+3.Hamming Code Converter & Error Correction
+4.ASCII 
+5.BCD to Gray Code Converter(Vice Varca)
+6.Truth Table of a Boolean Equation
+7.Forming Boolean Equation from a Truth Table
+8.History
+
+Choice Option: 
